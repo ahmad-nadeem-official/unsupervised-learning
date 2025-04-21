@@ -128,7 +128,7 @@ You can explore and run this project directly on **[![Open In Colab](https://col
 
 📥 **Note**:  
 To use the dataset, upload the file manually from your local system:  
-**`resources/data/riceclassification.csv`** into Colab after opening the notebook.  
+**`resources/data/riceClassification.csv`** into Colab after opening the notebook.  
 You don't need a Kaggle API key or link for this project.
 
 
