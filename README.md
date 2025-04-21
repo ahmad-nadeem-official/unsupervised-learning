@@ -36,7 +36,7 @@ This project demonstrates unsupervised learning through **K-Means Clustering** o
 *   ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-42A5F5?logo=seaborn&logoColor=white)  
 *   ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4-F7931E?logo=scikit-learn&logoColor=white) 
 *   ![PyTorch](https://img.shields.io/badge/PyTorch-2.1.0-EE4C2C?logo=pytorch&logoColor=white)
-*   PyTorch (GPU setup)
+*   PyTorch(for GPU setup)
     
 
 * * *
@@ -120,6 +120,17 @@ After training with `k=5`, the model clustered the data into the following distr
     
 
 * * *
+
+🚀 **Run on Google Colab**
+--------------------------
+
+You can explore and run this project directly on **[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/189EVx1JNIHh5Vx36zu9u-WnNX2KoCnVh#scrollTo=NI7u25pcg7jS)**:  
+
+📥 **Note**:  
+To use the dataset, upload the file manually from your local system:  
+**`resources/data/riceclassification.csv`** into Colab after opening the notebook.  
+You don't need a Kaggle API key or link for this project.
+
 
 ✅ Key Highlights
 ----------------
