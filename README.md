@@ -29,18 +29,13 @@ This project demonstrates unsupervised learning through **K-Means Clustering** o
 🚀 Technologies Used
 --------------------
 
-*   Python 🐍
-    
-*   Pandas
-    
-*   NumPy
-    
-*   Seaborn
-    
-*   Matplotlib
-    
-*   Scikit-learn
-    
+*   ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)    
+*   ![Pandas](https://img.shields.io/badge/Pandas-2.1.4-150458?logo=pandas&logoColor=white)  
+*   ![NumPy](https://img.shields.io/badge/NumPy-1.26.4-013243?logo=numpy&logoColor=white)              
+*   ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.4-11557C?logo=matplotlib&logoColor=white)  
+*   ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-42A5F5?logo=seaborn&logoColor=white)  
+*   ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4-F7931E?logo=scikit-learn&logoColor=white) 
+*   ![PyTorch](https://img.shields.io/badge/PyTorch-2.1.0-EE4C2C?logo=pytorch&logoColor=white)
 *   PyTorch (GPU setup)
     
 
